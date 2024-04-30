@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9972980-6b5d-45f4-a89f-9aecb89da647" name="Changes" comment="main" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CursedScorpio&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CursedScorpio/SpiderStore.git&quot;,
+    &quot;accountId&quot;: &quot;ec7f7b65-83d2-4921-84f3-cf32e50263e3&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/module-info.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2edlB18ChS6gh6lWS9lVVSd2pDt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Employeemain.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "Application.SpiderLoginPage.executor": "Debug",
+    "Application.com.example.projectspider.SpiderLoginPage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Scorpio/IdeaProjects/Project Spider - Final",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.projectspider" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.projectspider" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.example.projectspider.SpiderLoginPage">
+    <configuration name="Employeemain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.projectspider.Employeemain" />
+      <module name="ProjectSpider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.projectspider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.projectspider.HelloApplication" />
+      <module name="ProjectSpider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.projectspider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiderLoginPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpiderLoginPage" />
+      <module name="ProjectSpider" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.projectspider.SpiderLoginPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.projectspider.SpiderLoginPage" />
+      <module name="ProjectSpider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.projectspider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.example.projectspider.SpiderLoginPage" />
+        <item itemvalue="Application.Employeemain" />
+        <item itemvalue="Application.SpiderLoginPage" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9972980-6b5d-45f4-a89f-9aecb89da647" name="Changes" comment="" />
+      <created>1712242198433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712242198433</updated>
+      <workItem from="1712242199362" duration="10360000" />
+      <workItem from="1712314517669" duration="11509000" />
+      <workItem from="1712326494586" duration="143000" />
+      <workItem from="1712326648627" duration="25000" />
+      <workItem from="1712343869524" duration="303000" />
+      <workItem from="1712595396646" duration="815000" />
+      <workItem from="1712673511326" duration="4848000" />
+      <workItem from="1712768666325" duration="4247000" />
+      <workItem from="1713533896926" duration="15083000" />
+      <workItem from="1713555702679" duration="118000" />
+      <workItem from="1713787163791" duration="8969000" />
+      <workItem from="1713798272276" duration="444000" />
+      <workItem from="1714089789500" duration="5400000" />
+      <workItem from="1714225326570" duration="920000" />
+      <workItem from="1714339945601" duration="9057000" />
+      <workItem from="1714426103301" duration="3564000" />
+      <workItem from="1714430307218" duration="4000" />
+      <workItem from="1714430447232" duration="137000" />
+      <workItem from="1714430795583" duration="8105000" />
+      <workItem from="1714476583089" duration="194000" />
+      <workItem from="1714479774802" duration="6140000" />
+      <workItem from="1714486309291" duration="3536000" />
+      <workItem from="1714489915213" duration="402000" />
+      <workItem from="1714490325834" duration="1482000" />
+      <workItem from="1714491825847" duration="123000" />
+      <workItem from="1714492045516" duration="24000" />
+      <workItem from="1714492167520" duration="692000" />
+    </task>
+    <task id="LOCAL-00001" summary="main">
+      <option name="closed" value="true" />
+      <created>1714490442539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714490442539</updated>
+    </task>
+    <task id="LOCAL-00002" summary="main">
+      <option name="closed" value="true" />
+      <created>1714492699026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714492699026</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="main" />
+    <option name="LAST_COMMIT_MESSAGE" value="main" />
+  </component>
+</project>
